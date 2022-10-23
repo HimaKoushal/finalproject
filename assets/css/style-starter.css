@@ -1,14 +1,4 @@
 @charset "UTF-8";
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -11711,7 +11701,4 @@ button.btn-contact:hover {
   button.btn-contact {
     width: 100%; } }
 
-/* / contact1-responsive */
-/* /contact1 */
 
-/*# sourceMappingURL=style-starter.css.map */
