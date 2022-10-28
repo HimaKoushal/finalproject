@@ -19,7 +19,7 @@ This is a web based application developed for people to book hotels of their cho
 
 
 
-## Service
+## Services
 ![Screenshot (200)](https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Services/Screenshot%20(200).png)
 ![Screenshot (201)](https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Services/Screenshot%20(201).png)
 ![Screenshot (202)](https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Services/Screenshot%20(202).png)
@@ -33,7 +33,7 @@ This is a web based application developed for people to book hotels of their cho
 ![Screenshot (206)](https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Contact/Screenshot%20(206).png)
 
 
-## you tube video that i make to show my project:https://youtu.be/U-bVAb3WA08
+## Youtube video that i make to show my project:https://youtu.be/U-bVAb3WA08
 
 
 ## azure portal screen shot
