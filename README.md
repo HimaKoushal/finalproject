@@ -1,7 +1,7 @@
 ## FRT Project:Future Ready Talent Project by Hima Koushal.
 This is a web based application developed for people to book hotels of their choice easily and fastly.
 
-## my website link:https://nice-meadow-0294ae610.2.azurestaticapps.net
+## my website azure link:https://nice-meadow-0294ae610.2.azurestaticapps.net
 
 ## Home page
 ![Screenshot (194)](https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Home/Screenshot%20(194).png)
