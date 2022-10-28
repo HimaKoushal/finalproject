@@ -4,7 +4,7 @@ This is a web based application developed for people to book hotels of their cho
 ## my website link:
 
 ## Home page
-https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Home/Screenshot%20(194).png
+![Screenshot (194)](https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Home/Screenshot%20(194).png)
 https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Home/Screenshot%20(196).png
 https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Home/Screenshot%20(197).png
 https://github.com/HimaKoushal/finalproject/blob/main/Screen%20shots/Home/Screenshot%20(198).png
